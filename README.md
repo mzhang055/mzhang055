@@ -1,6 +1,5 @@
-## hi, i'm michelle
+# hi, i'm michelle 👋
 
-<img width="500" height="267" alt="image" src="https://github.com/user-attachments/assets/96d358f8-41e1-4420-92d1-5b3210bd25bf" />
 
 <!--
 **mzhang055/mzhang055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
